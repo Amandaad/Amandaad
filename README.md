@@ -43,11 +43,12 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 🤖 Mascote Oficial
 
-```
+![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=454ee5c0-af09-4c5f-b046-166447957649)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=radical)
+---
+
 <p align="center">
   Feito com 💜 por <b>Amanda Simplicio</b>
 </p>
