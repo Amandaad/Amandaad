@@ -46,3 +46,6 @@ Use este script para exibir estatísticas no seu README:
 
 ```md
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=radical)
+
+### Tecnólogias Usadas 
+[![Clique para ver maior](html.png)]
