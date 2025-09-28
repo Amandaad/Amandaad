@@ -48,5 +48,9 @@ Use este script para exibir estatísticas no seu README:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=radical)
 
 ### Tecnólogias Usadas 
+![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=f88e5b3b-6d1c-4cdc-8f0d-a4b33c2d6102)
 
-![HTMl CSS JS] (images/html.png)
+---
+
+
+
