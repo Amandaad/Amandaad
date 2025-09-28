@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Amanda Simplicio
 
-Bem-vindo(a) ao meu portfólio! Sou apaixonada por [sua área — ex: desenvolvimento web, design, análise de dados] e adoro transformar ideias em projetos reais com impacto.
+Bem-vindo(a) ao meu portfólio! Sou apaixonada por [ desenvolvimento web, design, análise de dados] e adoro transformar ideias em projetos reais com impacto.
 
 ---
 
