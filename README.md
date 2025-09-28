@@ -45,5 +45,9 @@
 
 ## 📊 Estatísticas no GitHub
 
-```md
+```
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=radical)
+<p align="center">
+  Feito com 💜 por <b>Amanda Simplicio</b>
+</p>
