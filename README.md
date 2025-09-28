@@ -6,7 +6,14 @@
 - 💬 Idiomas: Português, Inglês  
 - 🛠️ Tecnologias & Habilidades:  
   `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Python`, **AWS / computação em nuvem**, entre outras  
-- 📫 Contato: cursotiamanda@hotmail.com | [LinkedIn](https://www.linkedin.com) *(adicione seu link real)*
+- 📫 Contato: cursotiamanda@hotmail.com |
+
+   ### 🌐 Onde me encontrar
+
+- 🐙 **GitHub:** [Amandaad](https://github.com/Amandaad)
+- 💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seuperfil)
+- 📧 **Email:** cursotiamanda@hotmail.com
+
 
 ---
 
