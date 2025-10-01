@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Amanda Simplicio
+# 🤖🦾 Olá sou Amanda simplicio.
 
 ![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=991ef506-cf18-4213-a4b5-f95e3d88ad25)
 
@@ -46,7 +46,25 @@
 ## 🤖 Mascote Oficial
 
 ![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=454ee5c0-af09-4c5f-b046-166447957649)
+# 📊 Estatísticas do GitHub
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandasimplicio&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandasimplicio&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=amandasimplicio&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000?logo=firefox&logoColor=white)](https://seu-site.com)
 ---
 
 <p align="center">
