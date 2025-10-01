@@ -64,7 +64,7 @@
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000?logo=firefox&logoColor=white)](https://seu-site.com)
+
 ---
 
 <p align="center">
