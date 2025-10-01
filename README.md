@@ -1,6 +1,6 @@
 # 🤖🦾 Olá sou Amanda simplicio.
 
-![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=991ef506-cf18-4213-a4b5-f95e3d88ad25)
+
 
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
