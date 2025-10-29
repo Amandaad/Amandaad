@@ -2,6 +2,9 @@
 
 
 
+![GIF de demonstração](./assets/demo_zoom_brilho.gif)
+
+
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
 - 📍 Localização: Campina Grande, Paraíba  
