@@ -2,7 +2,7 @@
 
 
 
-![GIF de demonstração](./assets/demo_zoom_brilho.gif)
+(./assets/demo_zoom_brilho.gif)
 
 
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
