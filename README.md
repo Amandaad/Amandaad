@@ -45,6 +45,12 @@
 🔗 [GitHub](https://github.com/Amandaad/paginaAmanda)  
 
 ---
+### catálogo
+
+**Descrição** Catálogo de  preços 
+**Tecnologias usadas:** Html CSS JAvascript
+🔗 [GitHub]https://amandaad.github.io/catalogostudioas/
+
 
 ## 🤖 Mascote Oficial
 
