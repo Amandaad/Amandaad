@@ -10,7 +10,7 @@
 - 📍 Localização: Campina Grande, Paraíba  
 - 💬 Idiomas: Português, Inglês  
 - 🛠️ Tecnologias & Habilidades:  
-  `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Python`, **AWS / computação em nuvem**, entre outras  
+  `HTML`, `CSS`, `JavaScript`, `React`,  **AWS / computação em nuvem**, entre outras  
 - 📫 Contato: cursotiamanda@hotmail.com |
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🚀 Portfólio Pessoal  
 **Descrição:** Meu site pessoal onde reúno meus projetos e informações profissionais.  
-**Tecnologias usadas:** `HTML`, `CSS`, `JavaScript`  
+**Tecnologias usadas:** `HTML`, `CSS`, `JavaScript `  
 🔗 [Repositório no GitHub](https://github.com/Amandaad/portifolio)  
 
 ---
