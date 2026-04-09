@@ -7,7 +7,6 @@
 - 💬 Idiomas: Português, Inglês  
 - 🛠️ Tecnologias & Habilidades:  
   `HTML`, `CSS`, `JavaScript`, `React`,  **AWS / computação em nuvem**, entre outras  
-- 📫 Contato: cursotiamanda@hotmail.com |
 
 ---
 
