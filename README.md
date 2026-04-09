@@ -1,10 +1,6 @@
 # 🤖🦾 Olá sou Amanda simplicio.
 
 
-
-(./assets/demo_zoom_brilho.gif)
-
-
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
 - 📍 Localização: Campina Grande, Paraíba  
@@ -25,54 +21,42 @@
 
 ## 💼 Projetos em destaque
 
-### 🚀 Portfólio Pessoal  
-**Descrição:** Meu site pessoal onde reúno meus projetos e informações profissionais.  
-**Tecnologias usadas:** `HTML`, `CSS`, `JavaScript `  
-🔗 [Repositório no GitHub](https://github.com/Amandaad/portifolio)  
+# 👩‍💻 Portfólio - Amandaad
 
----
+Bem-vindo ao meu portfólio! Aqui estão alguns dos meus projetos em destaque.
 
-### 🧩 landing.page  
-**Descrição:** Página de apresentação / landing page para projetos ou produtos.  
-**Tecnologias usadas:** `TypeScript`, HTML, CSS  
-🔗 [GitHub](https://github.com/Amandaad/landing.page)  
+## 🚀 Projetos
 
----
+### [Catálogo de Serviços](https://github.com/Amandaad/catalogo-de-servicos)
+Aplicação para gerenciamento e visualização de serviços.
+- Cadastro de serviços com detalhes
+- Listagem e busca
+- Interface simples e responsiva
 
-### 🎨 páginaAmanda  
-**Descrição:** Página para exibir meus projetos com layout visual.  
-**Tecnologias usadas:** HTML, CSS, JavaScript  
-🔗 [GitHub](https://github.com/Amandaad/paginaAmanda)  
+### [protagonize-tech](https://github.com/ProtagonizeTech/protagonize-tech)
+Aplicação de tarefas com Angular e ASP.NET Core.
+- CRUD completo
+- Integração front-end e back-end
+- Banco de dados SQL Server
 
----
-### catálogo
+### [amanda.devportifolio](https://github.com/Amandaad/amanda.devportifolio)
+Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
+- Layout responsivo
+- Seções de projetos e contato
+- Deploy no GitHub Pages
 
-**Descrição** Catálogo de  preços 
-**Tecnologias usadas:** Html CSS JAvascript
-🔗 [GitHub]https://amandaad.github.io/catalogostudioas/
+## 🛠️ Tecnologias
+- **Front-end:** Angular, React, HTML, CSS, JavaScript
+- **Back-end:** ASP.NET Core, Node.js
+- **Banco de dados:** SQL Server, MySQL
+- **Ferramentas:** Git, GitHub, VS Code
 
-
-## 🤖 Mascote Oficial
-
-![Robô Roxo](sandbox:/mnt/data/A_flat,_digital_illustration_features_a_friendly_r.png?_chatgptios_conversationID=68d99ec9-0158-8320-92d3-7ff611b7cb65&_chatgptios_messageID=454ee5c0-af09-4c5f-b046-166447957649)
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandasimplicio&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandasimplicio&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=amandasimplicio&theme=radical&hide_border=false)
-
-</div>
-
----
+## 📫 Contato
+- Email: cursotiamanda@hotmail.com 
+- LinkedIn:{https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/
+- GitHub: [github.com/Amandaad](https://github.com/Amandaad)
 
 
-
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
 
 ---
 
