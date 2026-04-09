@@ -25,7 +25,6 @@
 
 Bem-vindo ao meu portfólio! Aqui estão alguns dos meus projetos em destaque.
 
-## 🚀 Projetos
 
 ### [Catálogo de Serviços](https://github.com/Amandaad/catalogo-de-servicos)
 Aplicação para gerenciamento e visualização de serviços.
