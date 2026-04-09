@@ -1,5 +1,13 @@
 # 🤖🦾 Olá sou Amanda simplicio.
-![Mascote Algora Tech](images/algora-bot.png)
+<p align="center">
+  <img src="images/algora-bot.png" width="200" alt="Mascote Algora Tech">
+</p>
+
+<h1 align="center">🚀 Portfólio Algora Tech</h1>
+
+<p align="center">
+  <strong>Transformando ideias em soluções digitais modernas e criativas.</strong>
+</p>
 
 
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
