@@ -1,6 +1,6 @@
 # 🤖🦾 Olá sou Amanda simplicio.
 <p align="center">
-  <img src="imags/Copilot_20260408_222731.png" width="200" alt="Mascote Algora Tech">
+  <img src="images/algora-bot.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
 
 
