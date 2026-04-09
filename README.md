@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
-## 🛠️ Tecnologias que uso##
+
+## 🛠️ Tecnologias que uso.
 
 <p align="center">
   <!-- Linguagens -->
