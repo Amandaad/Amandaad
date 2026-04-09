@@ -15,7 +15,7 @@
 ### 🌐 Onde me encontrar
 
 - 🐙 **GitHub:** [Amandaad](https://github.com/Amandaad)  
-- 💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seuperfil)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/)  
 - 📧 **Email:** cursotiamanda@hotmail.com  
 
 ---
