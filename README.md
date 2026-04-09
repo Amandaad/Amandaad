@@ -1,9 +1,9 @@
 # 🤖🦾 Olá sou Amanda simplicio.
 <p align="center">
-  <img src="https://github.com/seuusuario/seurepositorio/blob/main/images/robo.gif" width="250" alt="Mascote Algora Tech animado">
+  <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
 
-
+https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif
 
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
