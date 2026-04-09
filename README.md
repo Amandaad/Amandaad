@@ -3,8 +3,6 @@
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
 
-https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif
-
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
 - 📍 Localização: Campina Grande, Paraíba  
