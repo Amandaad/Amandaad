@@ -1,4 +1,5 @@
 # 🤖🦾 Olá sou Amanda simplicio.
+![Mascote Algora Tech](images/algora-bot.png)
 
 
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
