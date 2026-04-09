@@ -1,4 +1,4 @@
-# 🤖🦾 Olá sou Amanda simplicio.
+# 🤖🦾 Olá Sou Amanda Simplicio 
 <p align="center">
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
