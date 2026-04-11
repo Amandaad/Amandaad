@@ -4,6 +4,13 @@
 </p>
 
 ## 🛠️ Tecnologias que uso.
+<!-- Marketing Digital -->
+<img src="https://img.shields.io/badge/Marketing%20Digital-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Social%20Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Ads-34A853?style=for-the-badge&logo=googleads&logoColor=white" />
+   
   <!-- Inteligência Artificial e Machine Learning -->
  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
