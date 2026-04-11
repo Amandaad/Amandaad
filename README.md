@@ -33,8 +33,8 @@
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
 - 📍 Localização: Campina Grande, Paraíba  
 - 💬 Idiomas: Português, Inglês  
-- 🛠️ Tecnologias & Habilidades:  
-  `HTML`, `CSS`, `JavaScript`, `React`,  **AWS / computação em nuvem**, entre outras  
+    
+
 
 ---
 
