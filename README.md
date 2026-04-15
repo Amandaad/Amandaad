@@ -3,9 +3,7 @@
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
 
-![Studio Amanda](https://img.shields.io/badge/Studio-Amanda-black)
-![Agente IA](https://img.shields.io/badge/Agente-IA-purple)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Online-green)
+
 ## 🛠️ Tecnologias que uso.
 <!-- Marketing Digital -->
 <img src="https://img.shields.io/badge/Marketing%20Digital-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
