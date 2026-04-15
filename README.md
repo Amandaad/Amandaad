@@ -3,16 +3,9 @@
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
-![Website](https://img.shields.io/badge/site-online-blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/amandaad/STUDIOAS)
-![GitHub stars](https://img.shields.io/github/stars/amandaad/STUDIOAS)
-![GitHub forks](https://img.shields.io/github/forks/amandaad/STUDIOAS)
-![GitHub issues](https://img.shields.io/github/issues/amandaad/STUDIOAS)
-![GitHub license](https://img.shields.io/github/license/amandaad/STUDIOAS)
+![Studio Amanda](https://img.shields.io/badge/Studio-Amanda-black)
+![Agente IA](https://img.shields.io/badge/Agente-IA-purple)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Online-green)
 ## 🛠️ Tecnologias que uso.
 <!-- Marketing Digital -->
 <img src="https://img.shields.io/badge/Marketing%20Digital-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
