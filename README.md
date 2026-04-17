@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=amandaad&color=blue&style=for-the-badge)
+
 
 ## 🛠️ Tecnologias que uso.
 <!-- Marketing Digital -->
@@ -92,7 +92,13 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
 - LinkedIn:{https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/
 - GitHub: [github.com/Amandaad](https://github.com/Amandaad)
 
+## 📊 Estatísticas
 
+![Profile Views](https://komarev.com/ghpvc/?username=amandaad&color=blue&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/amandaad?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/amandaad?style=for-the-badge)
 
 ---
 
