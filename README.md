@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=amandaad&color=blue&style=for-the-badge)
 
 ## 🛠️ Tecnologias que uso.
 <!-- Marketing Digital -->
