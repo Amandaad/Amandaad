@@ -84,32 +84,14 @@ Campina Grande, Paraíba - Brasil
 ## 💼 Projetos em destaques.
 
 
-### [Catálogo de Serviços](https://github.com/Amandaad/catalogo-de-servicos)
-Aplicação para gerenciamento e visualização de serviços.
-- Cadastro de serviços com detalhes
-- Listagem e busca
-- Interface simples e responsiva
 
-### [protagonize-tech](https://github.com/ProtagonizeTech/protagonize-tech)
-Aplicação de tarefas com Angular e ASP.NET Core.
-- CRUD completo
-- Integração front-end e back-end
-- Banco de dados SQL Server
-
-### [amanda.devportifolio](https://github.com/Amandaad/amanda.devportifolio)
-Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
-- Layout responsivo
-- Seções de projetos e contato
-- Deploy no GitHub Pages
 
 ## 🛠️ Tecnologias
 - **Front-end:** Angular, React, HTML, CSS, JavaScript
 - **Back-end:** ASP.NET Core, Node.js
 - **Banco de dados:** SQL Server, MySQL
 - **Ferramentas:** Git, GitHub, VS Code
-# 🚀 Projetos Integrados - Amandaad
-
-
+---
 
 ## 📂 Projetos
 
