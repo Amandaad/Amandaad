@@ -1,7 +1,7 @@
 # 🤖🦾 Olá Sou Amanda Simplicio 
-<p align="center">
-  <img src="https://github.com/Amandaad/Amandaad/blob/main/imags/robo.gif" width="250" alt="Mascote Algora Tech animado">
-</p>
+# 🤖 Animação de Robô
+
+![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 
 
    
