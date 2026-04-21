@@ -41,6 +41,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
  <p align="center">
+
+   
+<!-- Marketing Digital -->
+<img src="https://img.shields.io/badge/Marketing%20Digital-FF0000?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Social%20Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Ads-34A853?style=for-the-badge&logo=googleads&logoColor=white" />
+
 - 🎓 Formação: Análise e Desenvolvimento de Sistemas  
 - 💼 Atuação atual: Analista Trainer na Studio Amanda  
 - 📍 Localização: Campina Grande, Paraíba  
@@ -93,6 +102,8 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
 - Email: cursotiamanda@hotmail.com 
 - LinkedIn:{https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/
 - GitHub: [github.com/Amandaad](https://github.com/Amandaad)
+
+  
 
 ## 📊 Estatísticas
 
