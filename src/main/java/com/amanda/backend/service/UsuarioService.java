@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicLong;
 @Service
 public class UsuarioService {
 
-    private final List<Usuario> usuarios = new ArrayList<>();
+    private final List<Usuario> usuarios = new java.util.concurrent.CopyOnWriteArrayList<>();
     private final AtomicLong sequence = new AtomicLong(1);
 
     public List<Usuario> listar() {
