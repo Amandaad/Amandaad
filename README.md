@@ -1,5 +1,26 @@
 # 🤖🦾 Olá Sou Amanda Simplício.
 
+✨ Olá! Seja bem-vindo ao meu portfólio. Aqui você encontra um pouco sobre minha formação, atuação e interesses.
+
+---
+
+## 🎓 Formação
+**Análise e Desenvolvimento de Sistemas**
+
+## 💼 Atuação Atual
+**Analista Trainer** na *Studio Amanda*
+
+## 📍 Localização
+Campina Grande, Paraíba - Brasil
+
+## 💬 Idiomas
+- Português (nativo)  
+- Inglês (intermediário/avançado)
+
+---
+
+🌟 Sempre em busca de novos desafios e aprendizados na área de tecnologia!
+
 
 ![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 
@@ -55,16 +76,6 @@
 - 📍 Localização: Campina Grande, Paraíba  
 - 💬 Idiomas: Português, Inglês  
     
-
-
----
-
-### 🌐 Onde me encontrar
-
-- 🐙 **GitHub:** [Amandaad](https://github.com/Amandaad)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/)  
-- 📧 **Email:** cursotiamanda@hotmail.com  
-
 ---
 
 ## 💼 Projetos em destaque
@@ -163,6 +174,11 @@ Este repositório reúne e organiza os principais projetos desenvolvidos, forman
 
 ---
 
+### 🌐 Onde me encontrar
+
+- 🐙 **GitHub:** [Amandaad](https://github.com/Amandaad)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/)  
+- 📧 **Email:** cursotiamanda@hotmail.com  
 
 ## 📫 Contato
 - Email: cursotiamanda@hotmail.com 
