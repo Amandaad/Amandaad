@@ -97,6 +97,47 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
 - **Back-end:** ASP.NET Core, Node.js
 - **Banco de dados:** SQL Server, MySQL
 - **Ferramentas:** Git, GitHub, VS Code
+# 🚀 Projetos Integrados - Amandaad
+
+Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de chatbot, painel administrativo, estoque e delivery, com backend integrado.
+
+## 📂 Projetos
+
+- 🤖 [Chatboot Python](https://github.com/Amandaad/chatboot-python)  
+  Chatbot inteligente para interação com clientes, podendo ser integrado ao WhatsApp ou web.
+
+- 📊 [Dashboard Painel Administrativo](https://github.com/Amandaad/dashboard-paineladministrativo)  
+  Painel central para gestão de estoque, pedidos e entregas, com métricas e relatórios.
+
+- 📦 [Sistema de Estoque](https://github.com/Amandaad/sistema-de-estoque)  
+  Controle de entrada e saída de produtos, integrado ao painel administrativo.
+
+- 🍔 [Sistema de Delivery](https://github.com/Amandaad/sistema-delivery)  
+  Gerenciamento de pedidos e entregas, conectado ao chatbot e ao painel.
+
+- ⚙️ [Backend](https://github.com/Amandaad/backend)  
+  API central que conecta todos os sistemas, garantindo comunicação e integração entre os módulos.
+
+---
+
+## 🔗 Fluxo de Integração
+
+1. O **cliente** interage com o **Chatboot Python**.  
+2. O pedido é enviado para o **Sistema de Delivery**.  
+3. O **Sistema de Estoque** atualiza automaticamente os produtos.  
+4. O **Painel Administrativo** mostra tudo em tempo real.  
+5. O **Backend** garante a comunicação entre os módulos.
+
+---
+
+## 🎯 Objetivo
+
+Criar um ecossistema integrado para:
+- Atendimento automatizado via chatbot.  
+- Gestão eficiente de estoque e pedidos.  
+- Controle centralizado em painel administrativo.  
+- Integração robusta através do backend.  
+
 
 ## 📫 Contato
 - Email: cursotiamanda@hotmail.com 
