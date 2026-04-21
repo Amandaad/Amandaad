@@ -1,7 +1,7 @@
 # 🤖🦾 Olá Sou Amanda Simplício.
 
 ✨ Olá! Seja bem-vindo ao meu portfólio. Aqui você encontra um pouco sobre minha formação, atuação e interesses.
-
+![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 ---
 
 ## 🎓 Formação
@@ -20,9 +20,9 @@ Campina Grande, Paraíba - Brasil
 ---
 
 🌟 Sempre em busca de novos desafios e aprendizados na área de tecnologia!
+---
 
 
-![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 
 
    
@@ -78,11 +78,7 @@ Campina Grande, Paraíba - Brasil
     
 ---
 
-## 💼 Projetos em destaque
-
-# 👩‍💻 Portfólio - Amandaad
-
-Bem-vindo ao meu portfólio! Aqui estão alguns dos meus projetos em destaque.
+## 💼 Projetos em destaques.
 
 
 ### [Catálogo de Serviços](https://github.com/Amandaad/catalogo-de-servicos)
