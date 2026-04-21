@@ -1,6 +1,9 @@
 # 🤖🦾 Olá Sou Amanda Simplício.
 
 ✨ Olá! Seja bem-vindo ao meu portfólio. Aqui você encontra um pouco sobre minha formação, atuação e interesses.
+
+
+
 ![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 ---
 
