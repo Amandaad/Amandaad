@@ -102,6 +102,11 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
 Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de chatbot, painel administrativo, estoque e delivery, com backend integrado.
 
 ## 📂 Projetos
+# 🚀 Projetos Integrados - Amandaad
+
+Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de aplicações web, chatbot, painel administrativo, estoque, delivery e backend.
+
+## 📂 Projetos
 
 - 🤖 [Chatboot Python](https://github.com/Amandaad/chatboot-python)  
   Chatbot inteligente para interação com clientes, podendo ser integrado ao WhatsApp ou web.
@@ -118,6 +123,32 @@ Este repositório reúne e organiza os principais projetos desenvolvidos, forman
 - ⚙️ [Backend](https://github.com/Amandaad/backend)  
   API central que conecta todos os sistemas, garantindo comunicação e integração entre os módulos.
 
+- 📑 [Catálogo de Serviços](https://github.com/Amandaad/catalogo-de-servicos)  
+  Aplicação para gerenciamento e visualização de serviços.  
+  - Cadastro de serviços com detalhes  
+  - Listagem e busca  
+  - Interface simples e responsiva  
+
+- 🖥️ [Protagonize Tech](https://github.com/ProtagonizeTech/protagonize-tech)  
+  Aplicação de tarefas com Angular e ASP.NET Core.  
+  - CRUD completo  
+  - Integração front-end e back-end  
+  - Banco de dados SQL Server  
+
+- 🌐 [Amanda.dev Portfólio](https://github.com/Amandaad/amanda.devportifolio)  
+  Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.  
+  - Layout responsivo  
+  - Seções de projetos e contato  
+  - Deploy no GitHub Pages  
+
+---
+
+## 🛠️ Tecnologias
+- **Front-end:** Angular, React, HTML, CSS, JavaScript  
+- **Back-end:** ASP.NET Core, Node.js  
+- **Banco de dados:** SQL Server, MySQL  
+- **Ferramentas:** Git, GitHub, VS Code  
+
 ---
 
 ## 🔗 Fluxo de Integração
@@ -126,17 +157,12 @@ Este repositório reúne e organiza os principais projetos desenvolvidos, forman
 2. O pedido é enviado para o **Sistema de Delivery**.  
 3. O **Sistema de Estoque** atualiza automaticamente os produtos.  
 4. O **Painel Administrativo** mostra tudo em tempo real.  
-5. O **Backend** garante a comunicação entre os módulos.
+5. O **Backend** garante a comunicação entre os módulos.  
+6. O **Catálogo de Serviços** organiza e disponibiliza serviços.  
+7. O **Protagonize Tech** gerencia tarefas internas.  
+8. O **Portfólio Amanda.dev** apresenta os projetos e contatos.  
 
 ---
-
-## 🎯 Objetivo
-
-Criar um ecossistema integrado para:
-- Atendimento automatizado via chatbot.  
-- Gestão eficiente de estoque e pedidos.  
-- Controle centralizado em painel administrativo.  
-- Integração robusta através do backend.  
 
 
 ## 📫 Contato
