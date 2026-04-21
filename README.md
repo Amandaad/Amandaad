@@ -92,9 +92,6 @@ Campina Grande, Paraíba - Brasil
 - **Banco de dados:** SQL Server, MySQL
 - **Ferramentas:** Git, GitHub, VS Code
 ---
-
-## 📂 Projetos
-
 Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de aplicações web, chatbot, painel administrativo, estoque, delivery e backend.
 
 ## 📂 Projetos
