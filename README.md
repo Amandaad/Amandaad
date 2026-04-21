@@ -99,10 +99,9 @@ Portfólio pessoal desenvolvido em HTML, CSS e JavaScript.
 - **Ferramentas:** Git, GitHub, VS Code
 # 🚀 Projetos Integrados - Amandaad
 
-Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de chatbot, painel administrativo, estoque e delivery, com backend integrado.
+
 
 ## 📂 Projetos
-# 🚀 Projetos Integrados - Amandaad
 
 Este repositório reúne e organiza os principais projetos desenvolvidos, formando um ecossistema completo de aplicações web, chatbot, painel administrativo, estoque, delivery e backend.
 
