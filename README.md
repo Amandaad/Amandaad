@@ -1,5 +1,5 @@
-# 🤖🦾 Olá Sou Amanda Simplicio 
-# 🤖 Animação de Robô
+# 🤖🦾 Olá Sou Amanda Simplício.
+
 
 ![Robô andando](https://media.tenor.com/XQ-RsP-3W3UAAAAC/robot-walking.gif)
 
