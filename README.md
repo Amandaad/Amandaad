@@ -107,7 +107,7 @@ Estudos contínuos em programação, bancos de dados, arquitetura de aplicaçõe
 
 - 💻 GitHub: [Amandaad](https://github.com/Amandaad)
 - 💼 LinkedIn: [Meu perfil profissional](https://www.linkedin.com/in/amanda-simpl%C3%ADcio-11b335272/)
-- 🌐 Portfólio: [Studio AS](https://studioamanda.netlify.app)
+- 🌐 Portfólio: [https://amandaad.github.io/amanda.devportifolio/]
 
 ---
 
