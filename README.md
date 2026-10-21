@@ -1,6 +1,6 @@
 
 # Olá! Eu sou Amanda Simplício da Silva 👩‍💻
-![Meu portfólio](./![Uploading a8a7bc41-3b76-4c6e-bd79-3415fbeab656.gif…]()
+(./![Uploading a8a7bc41-3b76-4c6e-bd79-3415fbeab656.gif…
 )
 
 ### Desenvolvedora Júnior | Engenharia de Dados | Backend | IA & Automação
