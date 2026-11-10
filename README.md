@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src=""C:\Users\curso\Downloads\picaxu.gif"" />
+<img src="C:\Users\curso\Downloads\picaxu.gif" />
 
 # ⚡ Amanda Simplício
 
