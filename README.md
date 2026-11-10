@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="100" />
 
 # ⚡ Amanda Simplício
 
@@ -56,7 +56,7 @@ Desenvolvedora em formação, com experiência prática em
 
 ### 🤖 [Studio AS — Chatbot & Automação](https://github.com/Amandaad/chatbootstudioas)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" width="70" align="right" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="70" align="right" />
 
 **Missão: Agente Virtual Inteligente**
 
@@ -68,7 +68,7 @@ Chatbot e automação para atendimento com Instagram, FastAPI, OpenAI, n8n e Goo
 
 ### 📊 [Azure Big Data Sales](https://github.com/Amandaad/azure-big-data-sales)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" width="70" align="right" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="70" align="right" />
 
 **Missão: Dominar o universo dos dados**
 
@@ -80,7 +80,7 @@ Pipeline de dados utilizando Python, PySpark, Azure, Parquet e Power BI.
 
 ### ⚙️ [DevOps Monitoring API](https://github.com/Amandaad/devops-monitoring-api)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png" width="70" align="right" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="70" align="right" />
 
 **Missão: Monitoramento e infraestrutura**
 
@@ -92,7 +92,7 @@ API desenvolvida com Spring Boot, PostgreSQL, Docker, Grafana e Zabbix.
 
 ### 🍔 Mandy Food
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" width="70" align="right" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" width="70" align="right" />
 
 **Missão: Construir uma plataforma web**
 
@@ -130,7 +130,7 @@ Busco oportunidades como **Desenvolvedora Júnior, Backend, Full Stack ou Data E
 
 Minha missão é contribuir com desenvolvimento de sistemas, APIs, automação, IA e soluções orientadas a dados.
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" width="100" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="100" />
 
 **Cada projeto é uma nova evolução!**
 
