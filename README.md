@@ -12,7 +12,7 @@ Sou apaixonada por tecnologia, desenvolvimento de software e soluções que tran
 
 <div align="center">
 
-<img src="./assets/pikachu-3d.gif" width="220" alt="Pikachu 3D animado"/>
+<img src="./assets/picaxu.gif" width="220" alt="Pikachu 3D animado"/>
 
 **Treinando habilidades, evoluindo conhecimentos e desenvolvendo novos projetos!** ✨
 
