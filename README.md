@@ -18,7 +18,6 @@ Sou apaixonada por tecnologia, desenvolvimento de software e soluções que tran
 
 </div>
 
-> **Atenção:** coloque o GIF realista do Pikachu na pasta `assets` do repositório, com o nome `pikachu-3d.gif`, para que a imagem apareça corretamente.
 
 ---
 
