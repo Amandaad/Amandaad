@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100" />
+<img src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee6433d1-a7b3-4460-b6b9-b06141608c0c" />
+0" />
 
 # ⚡ Amanda Simplício
 
