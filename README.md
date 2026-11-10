@@ -65,5 +65,5 @@ Aplicação para gerenciamento de pedidos e funcionalidades de alimentação.
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
