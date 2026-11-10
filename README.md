@@ -1,152 +1,70 @@
+# 💜 Amanda Simplicio da Silva
 
+### 👩‍💻 Desenvolvedora | Full Stack | Backend | Dados & Inteligência Artificial
+
+Olá! Seja bem-vindo(a) ao meu perfil! 💜
+
+Sou apaixonada por tecnologia, desenvolvimento de software e soluções que transformam ideias em projetos reais. Estou sempre aprendendo e explorando novas ferramentas nas áreas de desenvolvimento, automação, dados e inteligência artificial.
+
+---
+
+## ⚡ Meu universo Pokémon
 
 <div align="center">
 
-<img src="C:\Users\curso\Downloads\picaxu.gif" />
+<img src="./assets/pikachu-3d.gif" width="220" alt="Pikachu 3D animado"/>
 
-# ⚡ Amanda Simplício
+**Treinando habilidades, evoluindo conhecimentos e desenvolvendo novos projetos!** ✨
 
-### 🎮 Pokémon Trainer | Desenvolvedora Júnior
+</div>
 
-**Backend | Full Stack | Dados & IA**
+> **Atenção:** coloque o GIF realista do Pikachu na pasta `assets` do repositório, com o nome `pikachu-3d.gif`, para que a imagem apareça corretamente.
 
-Desenvolvedora em formação, com experiência prática em  
-**APIs, automação, chatbots, sistemas web e dados.**
+---
 
-<img src="https://img.shields.io/badge/Pokémon-Trainer-yellow?style=for-the-badge&logo=pokemon&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-Developer-7B2CBF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge" />
+## 🛠️ Tecnologias e ferramentas
 
-[![GitHub](https://img.shields.io/badge/GitHub-Amandaad-181717?style=for-the-badge&logo=github)](https://github.com/Amandaad)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-7B68A6?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9370DB?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-BAA0E8?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9370DB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-9370DB?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-BAA0E8?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🧬 Minha Pokédex de Tecnologias
+## 🚀 Projetos em destaque
 
-| Tipo | Tecnologia |
-|---|---|
-| ⚡ Elétrico | Python |
-| 🔥 Fogo | Java / Spring Boot |
-| 🌊 Água | React / TypeScript |
-| 🌿 Planta | SQL / PostgreSQL |
-| 🪨 Pedra | Docker / Linux |
-| 🌌 Psíquico | IA / OpenAI |
-| 👻 Fantasma | Automação / n8n |
-| 🐉 Dragão | Azure / PySpark |
+### 💜 Studio AS
+Chatbot e automação de atendimento, com integração de ferramentas e serviços.
 
-### 🛠️ Habilidades desbloqueadas
+**Tecnologias:** FastAPI, OpenAI, n8n, Google Calendar e Instagram.
 
-`Python` `FastAPI` `Java` `Spring Boot`  
-`React` `TypeScript` `JavaScript`  
-`SQL` `PostgreSQL` `Power BI`  
-`Docker` `Git` `Linux`  
-`Azure` `PySpark` `Apache Spark`  
-`n8n` `OpenAI` `APIs` `Automação`
+### 📊 Azure Big Data Sales
+Projeto de análise e processamento de dados de vendas utilizando ferramentas de Big Data.
 
----
+**Tecnologias:** Python, PySpark, Azure, Parquet e Power BI.
 
-## 🎮 Missões — Projetos
+### ⚙️ DevOps Monitoring API
+API com monitoramento de serviços e infraestrutura.
 
-### 🤖 [Studio AS — Chatbot & Automação](https://github.com/Amandaad/chatbootstudioas)
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" width="70" align="right" />
-
-**Missão: Agente Virtual Inteligente**
-
-Chatbot e automação para atendimento com Instagram, FastAPI, OpenAI, n8n e Google Calendar.
-
-`Python` `FastAPI` `IA` `n8n`
-
----
-
-### 📊 [Azure Big Data Sales](https://github.com/Amandaad/azure-big-data-sales)
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="70" align="right" />
-
-**Missão: Dominar o universo dos dados**
-
-Pipeline de dados utilizando Python, PySpark, Azure, Parquet e Power BI.
-
-`Python` `PySpark` `Azure` `Power BI`
-
----
-
-### ⚙️ [DevOps Monitoring API](https://github.com/Amandaad/devops-monitoring-api)
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" width="70" align="right" />
-
-**Missão: Monitoramento e infraestrutura**
-
-API desenvolvida com Spring Boot, PostgreSQL, Docker, Grafana e Zabbix.
-
-`Java` `Spring Boot` `Docker` `PostgreSQL`
-
----
+**Tecnologias:** Java, Spring Boot, PostgreSQL, Docker, Grafana e Zabbix.
 
 ### 🍔 Mandy Food
+Aplicação para gerenciamento de pedidos e funcionalidades de alimentação.
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" width="70" align="right" />
-
-**Missão: Construir uma plataforma web**
-
-Plataforma utilizando FastAPI, PostgreSQL, React e Docker.
-
-`FastAPI` `React` `PostgreSQL`
+**Tecnologias:** FastAPI, PostgreSQL, React e Docker.
 
 ---
 
-## 📊 Pokémon Stats — GitHub
+## 📈 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&hide_border=true&theme=midnight-purple&locale=pt-br" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandaad&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 Streak de Batalhas
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Amandaad&hide_border=true&theme=midnight-purple" />
-
-</div>
-
----
-
-## 🎯 Próxima evolução
-
-Busco oportunidades como **Desenvolvedora Júnior, Backend, Full Stack ou Data Engineer**.
-
-Minha missão é contribuir com desenvolvimento de sistemas, APIs, automação, IA e soluções orientadas a dados.
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="100" />
-
-**Cada projeto é uma nova evolução!**
-
----
-
-## 📫 Entre em contato
-
-📍 Brasil  
-🌐 Disponível para oportunidades remotas
-
-🔗 [GitHub — Amandaad](https://github.com/Amandaad)
-
-<div align="center">
-
-### ⚡ Gotta Code 'Em All!
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" />
-
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amandaad&show_icons=true&theme=
